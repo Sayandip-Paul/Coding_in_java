@@ -1,0 +1,20 @@
+Given a string, reverse only vowels in it; leaving rest of the string as it is.
+
+Input Format
+
+abcdef
+
+Constraints
+
+Input should be a string.
+
+Output Format
+
+ebcdaf
+
+Sample Input 0
+
+hello
+Sample Output 0
+
+holle
